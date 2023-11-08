@@ -1,0 +1,14 @@
+C:\Users\Mido\RiderProjects\Guest Book\bin\Debug\net7.0\Guest Book.exe
+C:\Users\Mido\RiderProjects\Guest Book\bin\Debug\net7.0\Guest Book.deps.json
+C:\Users\Mido\RiderProjects\Guest Book\bin\Debug\net7.0\Guest Book.runtimeconfig.json
+C:\Users\Mido\RiderProjects\Guest Book\bin\Debug\net7.0\Guest Book.dll
+C:\Users\Mido\RiderProjects\Guest Book\bin\Debug\net7.0\Guest Book.pdb
+C:\Users\Mido\RiderProjects\Guest Book\obj\Debug\net7.0\Guest Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mido\RiderProjects\Guest Book\obj\Debug\net7.0\Guest Book.AssemblyInfoInputs.cache
+C:\Users\Mido\RiderProjects\Guest Book\obj\Debug\net7.0\Guest Book.AssemblyInfo.cs
+C:\Users\Mido\RiderProjects\Guest Book\obj\Debug\net7.0\Guest Book.csproj.CoreCompileInputs.cache
+C:\Users\Mido\RiderProjects\Guest Book\obj\Debug\net7.0\Guest Book.dll
+C:\Users\Mido\RiderProjects\Guest Book\obj\Debug\net7.0\refint\Guest Book.dll
+C:\Users\Mido\RiderProjects\Guest Book\obj\Debug\net7.0\Guest Book.pdb
+C:\Users\Mido\RiderProjects\Guest Book\obj\Debug\net7.0\Guest Book.genruntimeconfig.cache
+C:\Users\Mido\RiderProjects\Guest Book\obj\Debug\net7.0\ref\Guest Book.dll
